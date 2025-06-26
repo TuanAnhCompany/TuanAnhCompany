@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/hRyybwx/photo-2025-06-26-17-10-50.jpg" alt="TuanAnhCompany Banner">
+  <img src="https://i.ibb.co/hRyybwxn/photo-2025-06-26-17-10-50.jpg" alt="TuanAnhCompany Banner">
 </p>
 
 <h1 align="center">Chào bạn 👋, mình là Tuấn Anh</h1>
